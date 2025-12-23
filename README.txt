@@ -77,8 +77,9 @@
 
 Установка и запуск
 1. Клонировать репозиторий:
-   git clone <ссылка на GitHub>
+   git clone <https://github.com/lolkaaa000/Project-Work/blob/main/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B0%D0%BD%D0%B5%D0%BB%D1%8C_%D0%B8_%D0%B0%D1%80%D0%BC%D0%B0%D0%BD.py>
 2. Установить зависимости:
    pip install -r requirements.txt
 3. Открыть notebook.ipynb в Google Colab
 4. Запустить ячейки по порядку
+
